@@ -1,0 +1,4 @@
+model.pth
+data_processed/
+__pycache__/
+0.npy
